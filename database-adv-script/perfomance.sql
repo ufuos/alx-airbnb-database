@@ -1,3 +1,5 @@
+-- highlight: ["WHERE", "AND"]
+
 -- Optimized Query: Retrieve bookings with user, property, and payment details
 -- Only fetch required columns, avoid SELECT *
 
